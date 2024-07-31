@@ -243,7 +243,7 @@ body {
         
     }
 
-    .encrypt-button, .decrypt-button, .copy-button, .action-buttons {
+    .encrypt-button, .decrypt-button, .copy-button, .reset-button {
         width: auto; /* Ancho automático para los botones */
         max-width: none; /* Sin límite en el ancho máximo */
     
