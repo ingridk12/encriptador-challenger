@@ -225,7 +225,7 @@ body {
         height: auto; /* Permite que la altura se ajuste automáticamente en pantallas pequeñas */
     }
 
-    .container, .botonesDos {
+    .container, .action-buttons {
         flex-direction: column; /* Cambia la disposición a columna en pantallas pequeñas */
        
     }
@@ -236,7 +236,7 @@ body {
         height: auto; /* Permite que la altura se ajuste automáticamente en pantallas pequeñas */
     }
 
-    .buttons, .botonesDos {
+    .buttons, .action-buttons {
         flex-direction: column; /* Alinea los botones en columna */
         gap: 10px; /* Espacio entre botones */
         justify-content: center; /* Centra los botones horizontalmente */
