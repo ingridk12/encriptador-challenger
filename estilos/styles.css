@@ -100,6 +100,7 @@ body {
     min-height: 350px;
     margin-bottom: 100px;
     border: none;
+    outline: none;
     padding: 1px;
     resize: none;
     background-color: var(--color-primiario);
@@ -122,6 +123,7 @@ body {
     width: 100%; /* Asegura que el textarea use el 100% del ancho del contenedor */
     max-width: 600px; /* Ajusta el máximo ancho según tus necesidades */
     height: 100px;
+    outline: none;
     margin: 0 auto; /* Centra el textarea horizontalmente */
     border: none;
     padding: 10px;
@@ -259,6 +261,9 @@ body {
     }
     .input-area{
         height: 100%;
+    }
+	 .buttons{
+        margin-bottom: 20px;
     }
 }
 
