@@ -172,6 +172,7 @@ body {
     font-weight: bold;
     border-radius: 24px;
     border: none;
+    cursor: pointer;
     outline: 1px solid var(--color-secundario);
     color: var(--color-secundario);
     background-color: var(--color-quinto);
